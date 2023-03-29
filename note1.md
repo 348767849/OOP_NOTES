@@ -15,3 +15,5 @@ class Person:
     def__str__(self):
         returns f'Pearson Object calles slef.name
         
+## more notes!
+- ```class``` is a keyword in python 
